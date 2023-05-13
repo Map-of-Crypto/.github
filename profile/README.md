@@ -94,3 +94,26 @@ What's next for Map of Crypto
 
 We really do hope to start a new movement in the web3 dapps, as with our application we let users exchange different types of goods, no matter where they live, and eventually let them pay with a single currency. Our biggest dream related to this project, is making it a full-scale working products, for masses, which would start a completely new trend in the crypto world.
 
+
+## Technology
+
+<h3 >
+  FrontEnd
+</h3>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+<div align="right">
+<h3 >
+  Web3
+</h3>
+
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![IPFS](https://img.shields.io/badge/-IPFS%2FFilecoin-green?style=for-the-badge)
+![Waku](https://img.shields.io/badge/-Waku-yellow?style=for-the-badge)
+![WalletConnect](https://img.shields.io/badge/-WalletConnect-black?style=for-the-badge)
+
+</div>
