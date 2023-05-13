@@ -1,4 +1,4 @@
-
+## About the project
 <br>
 <br>
 
@@ -39,6 +39,14 @@ What it does
 <br>
 <br>
 
+<p align="center">
+<img src= https://github.com/Map-of-Crypto/.github/assets/98988595/f8d0a89b-4ab2-4144-a7a8-fdf2401753ed
+</p>
+  
+<br>
+<br>
+
+
 
 It helps you find/ sell different types of products, all around the world. The only thing you need is your Crypto Wallet (for now we support just MetaMask), and you can start buying and selling things online. First of all we need a seller, the seller puts the item on sell, so that we can see the item and it's location on the map. Then interested buyers, can give put their offers. Moreover, there is also a decentralised Chat Room where buyers and sellers can chat. Once the seller accepts the offer, the money gets staked inside of the smart contract, and it can be realised only under certain conditions, such as delivery of the product (fetched from the data provided by Chainlink APIs), or the cancellation of the purchase. In this way our users do not have to trust anyone, as everything is in the code, the whole system is decentralised and works on the Blockchain
 <br>
@@ -71,8 +79,17 @@ Accomplishments that we're proud of
 <br>
 <br>
 
+<p align="center">
+<img src= https://github.com/Map-of-Crypto/.github/assets/98988595/2c641327-1c4c-41c4-aa98-23fb28816682)
+</p>
+  
+<br>
+<br>
+
 
 Most importantly delivering the working product, even thought it can be improved we have definitely created a new paradigm and solved a lot of the problems on the way.
+
+
 <br>
 <br>
 
