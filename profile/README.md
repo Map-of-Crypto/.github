@@ -113,7 +113,9 @@ What's next for Map of Crypto
 
 
 We really do hope to start a new movement in the web3 dapps, as with our application we let users exchange different types of goods, no matter where they live, and eventually let them pay with a single currency. Our biggest dream related to this project, is making it a full-scale working products, for masses, which would start a completely new trend in the crypto world.
-
+  
+<br>
+<br>
 
 ## Technology
 
@@ -146,7 +148,7 @@ We really do hope to start a new movement in the web3 dapps, as with our applica
 <br>
 <br>
 
-<div align="center">
+<div align="left">
 
 Future intentions of integrations are gateway payment something like MoonPay or Transak that users can directly buy crypto with fiat.
 Integration with some brands and providers of selling services and also colaboration with them.
