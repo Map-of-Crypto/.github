@@ -101,6 +101,9 @@ What we learned
 
 
 One of the most important lessons where topics related to Chainlink nodes, adapters, configuration of the Chainlink Keepers, Data Feeds and many other related topics.
+<br>
+<br>
+
 
 What's next for Map of Crypto
 
