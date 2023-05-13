@@ -138,7 +138,13 @@ We really do hope to start a new movement in the web3 dapps, as with our applica
 
 </div>
 
+<br>
+<br>
+
 ## Future plan for integrations and colaboration
+
+<br>
+<br>
 
 <div align="center">
 
@@ -155,16 +161,24 @@ Some tool which will give users ability to see where is data about their items t
 Customer support chat integartion (Matrix, Wickr)
 As we developed tracking id number which gets from Chainlink node we should consider connecting that data with some Digital Marketing tool in order that user gets confirmation e-mail.
 Also 2FA service for better safety measuers and protection of users privacy.
+
+<br>
 <br>
   
 
 </div>
 
-## Conclusion 
 <br>
 <br>
 
-This project offers many posibilities in colaboration and additional integartion as he has multi usage purpose. It can be upgraded to high level and standards and become on of most used Dapp on market. 
+## Conclusion
+
+<br>
+<br>
+
+This project offers many posibilities in colaboration and additional integartion as he has multi usage purpose. It can be upgraded to high level and standards and become on of most used Dapp on market.
+<br>
+<br>
 It can have interoperability with Social Media, DEFI protocols (Dex, leverage,Bridge,Pool),delivery services such as UPS,GLS,cross-chain functionality as it can be deployed on different chains, decentralized customer support,storing real life data from outside world on decentralized storage platforms etc etc.
   
  
