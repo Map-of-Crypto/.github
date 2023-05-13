@@ -134,3 +134,36 @@ We really do hope to start a new movement in the web3 dapps, as with our applica
 ![WalletConnect](https://img.shields.io/badge/-WalletConnect-black?style=for-the-badge)
 
 </div>
+
+## Future plan for integrations and colaboration
+
+<div align="center">
+
+Future intentions of integrations are gateway payment something like MoonPay or Transak that users can directly buy crypto with fiat.
+Integration with some brands and providers of selling services and also colaboration with them.
+Reconstruction and better UI on dashboard visualy with extra functionality.
+<br>
+As we use Google API for maps maybe use some paid service in order to get better data about locations and users.
+Usage of Google services in order to get better customer support for users.
+Adding section on dashboard where users can make profiles and list as many items as they can.
+Process of verification system to be more trustfull and protect users rights something like Idenfy or Veriff.
+Also adding posibility for users to easy connect with multiple wallets on supported chains.
+Some tool which will give users ability to see where is data about their items they listed on IPFS.
+Customer support chat integartion (Matrix, Wickr)
+As we developed tracking id number which gets from Chainlink node we should consider connecting that data with some Digital Marketing tool in order that user gets confirmation e-mail.
+Also 2FA service for better safety measuers and protection of users privacy.
+<br>
+  
+
+</div>
+
+## Conclusion 
+<br>
+<br>
+
+This project offers many posibilities in colaboration and additional integartion as he has multi usage purpose. It can be upgraded to high level and standards and become on of most used Dapp on market. 
+It can have interoperability with Social Media, DEFI protocols (Dex, leverage,Bridge,Pool),delivery services such as UPS,GLS,cross-chain functionality as it can be deployed on different chains, decentralized customer support,storing real life data from outside world on decentralized storage platforms etc etc.
+  
+ 
+
+
