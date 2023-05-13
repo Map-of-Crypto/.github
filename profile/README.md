@@ -131,7 +131,10 @@ We really do hope to start a new movement in the web3 dapps, as with our applica
 <br>
 
 ## Technology
-
+  
+<br>
+<br>
+  
 <h3 >
   FrontEnd
 </h3>
